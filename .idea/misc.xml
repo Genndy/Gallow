@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/new_user/AndroidStudioProjects/Gallow/app/src/main/res/drawable/background.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/new_user/AndroidStudioProjects/Gallow/app/src/main/res/drawable/button_style.xml" value="0.19282051282051282" />
+        <entry key="..\:/Users/new_user/AndroidStudioProjects/Gallow/app/src/main/res/drawable/cross.xml" value="0.1" />
+        <entry key="..\:/Users/new_user/AndroidStudioProjects/Gallow/app/src/main/res/drawable/eclipse.xml" value="0.1" />
+        <entry key="..\:/Users/new_user/AndroidStudioProjects/Gallow/app/src/main/res/drawable/gallow_0.xml" value="0.19282051282051282" />
+        <entry key="..\:/Users/new_user/AndroidStudioProjects/Gallow/app/src/main/res/drawable/gallow_1.xml" value="0.1" />
+        <entry key="..\:/Users/new_user/AndroidStudioProjects/Gallow/app/src/main/res/drawable/gallow_2.xml" value="0.19282051282051282" />
+        <entry key="..\:/Users/new_user/AndroidStudioProjects/Gallow/app/src/main/res/drawable/gallow_3.xml" value="0.19282051282051282" />
+        <entry key="..\:/Users/new_user/AndroidStudioProjects/Gallow/app/src/main/res/drawable/gallow_4.xml" value="0.19282051282051282" />
+        <entry key="..\:/Users/new_user/AndroidStudioProjects/Gallow/app/src/main/res/drawable/gallow_5.xml" value="0.19282051282051282" />
+        <entry key="..\:/Users/new_user/AndroidStudioProjects/Gallow/app/src/main/res/drawable/gallow_6.xml" value="0.19282051282051282" />
+        <entry key="..\:/Users/new_user/AndroidStudioProjects/Gallow/app/src/main/res/drawable/gallow_7.xml" value="0.19282051282051282" />
+        <entry key="..\:/Users/new_user/AndroidStudioProjects/Gallow/app/src/main/res/drawable/gallow_8.xml" value="0.19282051282051282" />
+        <entry key="..\:/Users/new_user/AndroidStudioProjects/Gallow/app/src/main/res/layout/activity_game.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/new_user/AndroidStudioProjects/Gallow/app/src/main/res/layout/activity_start.xml" value="0.22" />
+        <entry key="..\:/Users/new_user/AndroidStudioProjects/Gallow/app/src/main/res/layout/item_letter.xml" value="0.25" />
+        <entry key="..\:/Users/new_user/AndroidStudioProjects/Gallow2/app/src/main/res/drawable/gallow_7.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/new_user/AndroidStudioProjects/Gallow2/app/src/main/res/layout/activity_game.xml" value="0.25" />
+        <entry key="..\:/Users/new_user/AndroidStudioProjects/Gallow2/app/src/main/res/layout/activity_start.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/new_user/AndroidStudioProjects/Gallow2/app/src/main/res/layout/item_letter.xml" value="0.16530797101449277" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

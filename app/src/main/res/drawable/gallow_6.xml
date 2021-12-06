@@ -1,0 +1,34 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="221dp"
+    android:height="245dp"
+    android:viewportWidth="221"
+    android:viewportHeight="245">
+    <group>
+        <path
+            android:fillColor="#F8F1DF"
+            android:pathData="M198 221h-93v15.5h28.28c2.14 0 4.28 0.17 6.4 0.52l21.7 3.55c1.6 0.26 3.22-0.4 4.16-1.72l0.82-1.16c1.3-1.8 3.98-1.8 5.28 0l0.71 1c0.85 1.19 2.57 1.28 3.53 0.2c1.04-1.17 2.91-0.96 3.67 0.4l0.21 0.39c0.46 0.81 1.32 1.32 2.26 1.32H198v-20z"/>
+        <path
+            android:strokeColor="#000"
+            android:strokeWidth="4"
+            android:pathData="M105 236.5V221h93v20m-93-4.5h28.28c2.14 0 4.28 0.17 6.4 0.52l21.7 3.55c1.6 0.26 3.22-0.4 4.16-1.72l0.82-1.16c1.3-1.8 3.98-1.8 5.28 0l0.71 1c0.85 1.19 2.57 1.28 3.53 0.2v0c1.04-1.17 2.91-0.96 3.67 0.4l0.21 0.39c0.46 0.81 1.32 1.32 2.26 1.32H198m-93-4.5v0c-8.15 0-16.12 2.41-22.9 6.93L79 245.5m119-4.5v0c5.92 2.96 12.44 4.5 19.06 4.5H221"/>
+        <path
+            android:fillColor="#F8F1DF"
+            android:strokeColor="#000"
+            android:strokeWidth="4"
+            android:pathData="M95.6 26.5l69.68 51.9l3.92-5.26L99.07 20.9l-3.48 5.6z"/>
+        <path
+            android:fillColor="#F8F1DF"
+            android:strokeColor="#000"
+            android:strokeWidth="4"
+            android:pathData="M3.67 31.03l200.17 1.65l0.14-17L2.2 14.02l1.48 17.01z"/>
+        <path
+            android:fillColor="#F8F1DF"
+            android:strokeColor="#000"
+            android:strokeWidth="4"
+            android:pathData="M177 219V5.37l-17-2.99V219h17z"/>
+        <path
+            android:strokeColor="#827F70"
+            android:strokeWidth="1"
+            android:pathData="M165.5 137l0.7 2.47c0.85 2.97 0.9 6.1 0.16 9.1v0c-0.57 2.26-0.68 4.62-0.32 6.93l0.46 3m1-6.5l1.06 1.77c1.19 1.97 1.13 4.45-0.15 6.36v0c-1.18 1.78-1.32 4.05-0.37 5.96l0.15 0.3c0.83 1.66 0.91 3.6 0.22 5.33L167.5 174M171 14l-0.05 0.05c-2.61 2.62-4.8 5.64-6.45 8.95v0m4.5-3v0.7c0 1.52-0.32 3.01-0.93 4.4v0c-0.7 1.58-1.78 2.96-3.13 4.04l-0.44 0.36"/>
+    </group>
+</vector>
